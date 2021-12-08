@@ -1,0 +1,10 @@
+/Users/rserrano/grepos/creative-coding/testing-nannou/target/rls/debug/deps/futures_channel-1265e38bf525f9c8.rmeta: /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lib.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lock.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/mod.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/queue.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/sink_impl.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/oneshot.rs
+
+/Users/rserrano/grepos/creative-coding/testing-nannou/target/rls/debug/deps/futures_channel-1265e38bf525f9c8.d: /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lib.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lock.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/mod.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/queue.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/sink_impl.rs /Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/oneshot.rs
+
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lib.rs:
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/lock.rs:
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/mod.rs:
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/queue.rs:
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/mpsc/sink_impl.rs:
+/Users/rserrano/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.18/src/oneshot.rs:
